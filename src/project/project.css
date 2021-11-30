@@ -1,0 +1,25 @@
+.container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 80vh;
+  justify-content: center;
+}
+
+.table {
+  /* margin: 200px; */
+  width: 70%;
+  height: 250px;
+  /* line-height: 70px; */
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  margin-top: 15px;
+  flex-direction: row;
+}
+
+.button {
+  float: left;
+  margin-top: 20px;
+}
